@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜想昼夢む",
+  "base_artist": "ウルエ",
+  "createdAt": "2025-12-11T18:13:06.304514Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜想昼夢む",
+      "artist": "ウルエ",
+      "has_synced": false,
+      "path": "select/pl_01_夜想昼夢む_ウルエ.txt"
+    }
+  ]
+}
